@@ -1,8 +1,8 @@
 # BREAST CANCER CLASSIFICATION
 ## About Dataset:
 ### Description:
-Breast cancer is the most common cancer amongst women in the world. It accounts for 25% of all cancer cases, and affected over 2.1 Million people in 2015 alone. It starts when cells in the breast begin to grow out of control. These cells usually form tumors that can be seen via X-ray or felt as lumps in the breast area.
-The key challenges against it’s detection is how to classify tumors into malignant (cancerous) or benign(non cancerous).
+Breast cancer is the most common cancer among women in the world. It accounts for 25% of all cancer cases and affected over 2,296,840 new cases of breast cancer in 2022 among women. It starts when cells in the breast begin to grow out of control. These cells usually form tumors that can be seen via X-ray or felt as lumps in the breast area.
+The key challenge against its detection is how to classify tumors into malignant (cancerous) or benign(non-cancerous).
 
 ### Acknowledgements:
 This dataset has been referred from Kaggle.
