@@ -2,7 +2,7 @@
 ## About Dataset:
 ### Description:
 Breast cancer is the most common cancer among women worldwide, accounting for approximately 25% of all cancer cases in women. In 2022, there were an estimated 2,296,840 new cases of breast cancer among women according to [World Cancer Research Fund International](https://www.wcrf.org/cancer-trends/breast-cancer-statistics/#:~:text=Breast%20cancer%20is%20the%202nd,was%20not%20reported%20for%20men.). It starts when cells in the breast begin to grow out of control. These cells usually form tumors that can be seen via X-ray or felt as lumps in the breast area.
-The key challenge against its detection is how to classify tumors into malignant (cancerous) or benign(non-cancerous).
+The key challenge against its detection is classifying tumors into malignant (cancerous) or benign(non-cancerous).
 
 ### Acknowledgements:
 This dataset has been referred from Kaggle.
@@ -49,10 +49,10 @@ Note: se = (Standard Error) <br>
 
 ## Key Insights
 - 63% of the values present in the diagnosis column are benign.
-- Most of the data are not normaly distributed with a skewness that tends to the right. we can also see a lot of outliers in the dataset
-- Because there is a statistically significant difference between Cancerous tumors and non_Cancerous tumors after performing statistical tests, we can say:
-  - Cancerous tumors have highest mean radius lobes, mean outer perimeter of lobes, mean area of lobes
+- Most of the data are not normally distributed with a skewness that tends to the right. we can also see a lot of outliers in the dataset
+- Because there is a statistically significant difference between Cancerous tumors and non_cancerous tumors after performing statistical tests, we can say:
+  - Cancerous tumors have the highest mean radius lobes, mean outer perimeter of lobes, the mean area of lobes
   - Cancerous tumors are more compact and concave 
-  - the null hypothesis could not be rejected so we can say that there is no difference between the mean of fractal dimension, the texture standard error and the smoothness standard error of the cancerous and the non cancerous tumors.
+  - the null hypothesis could not be rejected so we can say that there is no difference between the mean of fractal dimension, the texture standard error, and the smoothness standard error of the cancerous and the non-cancerous tumors.
 - SVM provided the best model with a precision score of 100%
-- texture mean, concavity mean, fractal dimension standard error, worst Concavity, Mean of Symmetry were the five most important features that helped in the predictions
+- texture mean, concavity mean, fractal dimension standard error, worst Concavity, and Mean of Symmetry were the five most important features that helped in the predictions
