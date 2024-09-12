@@ -55,4 +55,4 @@ Note: se = (Standard Error) <br>
   - Cancerous tumors are more compact and concave 
   - the null hypothesis could not be rejected so we can say that there is no difference between the mean of fractal dimension, the texture standard error, and the smoothness standard error of the cancerous and the non-cancerous tumors.
 - SVM provided the best model with a precision score of 100%
-- texture mean, concavity mean, fractal dimension standard error, worst Concavity, and Mean of Symmetry were the five most important features that helped in the predictions
+- texture mean, concavity mean, fractal dimension standard error, worst Concavity, and Mean of Symmetry were the five most important features that helped in the predictions.
