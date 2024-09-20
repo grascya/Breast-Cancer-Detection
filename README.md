@@ -5,7 +5,7 @@ Breast cancer is the most common cancer among women worldwide, accounting for ap
 The key challenge against its detection is classifying tumors into malignant (cancerous) or benign(non-cancerous).
 
 ### Acknowledgements:
-This dataset has been referred from Kaggle.
+This dataset has been referred from Kaggle
 
 ### Objective:
 - Understand the Dataset & cleanup (if required).
