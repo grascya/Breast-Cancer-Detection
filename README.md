@@ -10,7 +10,7 @@ This dataset has been referred from Kaggle
 ### Objective:
 - Understand the Dataset & cleanup (if required).
 - Build classification models to predict whether the cancer type is Malignant or Benign.
-- Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.
+- Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms .
 
 ### Columns:
 Note: se = (Standard Error) <br>
