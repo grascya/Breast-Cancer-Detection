@@ -2,7 +2,7 @@
 ## About Dataset:
 ### Description:
 Breast cancer is the most common cancer among women worldwide, accounting for approximately 25% of all cancer cases in women. In 2022, there were an estimated 2,296,840 new cases of breast cancer among women according to [World Cancer Research Fund International](https://www.wcrf.org/cancer-trends/breast-cancer-statistics/#:~:text=Breast%20cancer%20is%20the%202nd,was%20not%20reported%20for%20men.). It starts when cells in the breast begin to grow out of control. These cells usually form tumors that can be seen via X-ray or felt as lumps in the breast area.
-The key challenge against its detection is classifying tumors into malignant (cancerous) or benign(non-cancerous).
+The key challenge against its detection is classifying tumors into malignant (cancerous) or benign(non-cancerous) .
 
 ### Acknowledgements:
 This dataset has been referred from Kaggle
